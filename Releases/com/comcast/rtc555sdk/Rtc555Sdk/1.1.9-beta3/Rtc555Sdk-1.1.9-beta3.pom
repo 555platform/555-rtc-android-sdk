@@ -56,5 +56,15 @@
       <artifactId>android-jsc-intl-r245459</artifactId>
       <version>1.0.0</version>
     </dependency>
+    <dependency>
+      <groupId>com.facebook.react</groupId>
+      <artifactId>react-native-0.61.4</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.oney.WebRTCModule</groupId>
+      <artifactId>rtc-555-webrtc</artifactId>
+      <version>1.0</version>
+    </dependency>
   </dependencies>
 </project>
