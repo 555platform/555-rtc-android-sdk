@@ -1,0 +1,41 @@
+Rtc555Sdk/Rtc555Sdk/bintray.gradle
+Rtc555Sdk/Rtc555Sdk/install.gradle
+Rtc555Sdk/.idea/
+.idea
+*.iml
+.gradle
+# Generated files
+bin/
+gen/
+out/
+#  Uncomment the following line in case you need and you don't have the release build type files in your app
+# release/
+Releases/.DS_Store
+# Gradle files
+.gradle/
+build/
+# IntelliJ
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+# Android Studio 3 in .gitignore file.
+.idea/caches
+.idea/modules.xml
+# Comment next line if keeping position of elements in Navigation Editor is relevant for you
+.idea/navEditor.xml
+build/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
