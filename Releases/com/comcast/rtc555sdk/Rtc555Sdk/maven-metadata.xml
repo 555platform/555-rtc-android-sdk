@@ -3,7 +3,7 @@
   <groupId>com.comcast.rtc555sdk</groupId>
   <artifactId>Rtc555Sdk</artifactId>
   <versioning>
-    <release>1.1.12</release>
+    <release>1.1.13</release>
     <versions>
       <version>1.1.4</version>
       <version>1.1.5</version>
@@ -25,7 +25,8 @@
       <version>1.1.11</version>
       <version>1.1.12-beta1</version>
       <version>1.1.12</version>
+      <version>1.1.13</version>
     </versions>
-    <lastUpdated>20210202122006</lastUpdated>
+    <lastUpdated>20210211101001</lastUpdated>
   </versioning>
 </metadata>
