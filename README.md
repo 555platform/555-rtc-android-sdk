@@ -2,7 +2,7 @@
 
 
 555 RTC SDK provides APIs which allow android developers to create apps with different features like Audio/Video/PSTN call, 
-conference call, chat, screen sharing, etc. The services offered by SDK are supported by 555 platform's reliable and scalable infrastructure designed to handle a large number of calls. 
+conference call, chat, screen sharing, etc.  The services offered by SDK are supported by 555 platform's reliable and scalable infrastructure designed to handle a large number of calls. 
 
 Below steps allow the user to make an end-to-end PSTN call. This includes user authentication, login, notification creating media connection.  
 
